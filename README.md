@@ -32,6 +32,14 @@ It is a student management system which has the functionalities like
 5. Go to com.springbootapplication.java which has main method
 6. Run the project
 7. Go to browser and give address
+
+# Application Related Screenshot
+![stu1](https://user-images.githubusercontent.com/83025741/213467244-857e3171-4eeb-42f6-ac74-5d34e9ee9588.PNG)
+![stu2](https://user-images.githubusercontent.com/83025741/213467291-71735b09-4518-49eb-9c48-996626b91cb3.PNG)
+
+![stu3](https://user-images.githubusercontent.com/83025741/213467160-a00f0cb6-cd5a-4852-808a-c9360d71213b.PNG)
+
+
           
           
 
